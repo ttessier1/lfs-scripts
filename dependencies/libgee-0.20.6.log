@@ -1,0 +1,3 @@
+"libgee-0.20.6-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/glib2.html
+"libgee-0.20.6-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/gobject-introspection.html
+"libgee-0.20.6-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/vala.html

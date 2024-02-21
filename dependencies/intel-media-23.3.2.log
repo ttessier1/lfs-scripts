@@ -1,0 +1,4 @@
+"intel-media-23.3.2-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/cmake.html
+"intel-media-23.3.2-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/intel-gmmlib.html
+"intel-media-23.3.2-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/libva.html
+"intel-media-23.3.2-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/x/xorg7.html

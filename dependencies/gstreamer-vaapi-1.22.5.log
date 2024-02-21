@@ -1,0 +1,5 @@
+"gstreamer-vaapi-1.22.5-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/x/gtk3.html
+"gstreamer-vaapi-1.22.5-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/gstreamer10.html
+"gstreamer-vaapi-1.22.5-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/gst10-plugins-base.html
+"gstreamer-vaapi-1.22.5-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/gst10-plugins-bad.html
+"gstreamer-vaapi-1.22.5-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/libva.html

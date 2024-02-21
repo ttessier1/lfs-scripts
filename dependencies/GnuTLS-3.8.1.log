@@ -1,0 +1,5 @@
+"GnuTLS-3.8.1-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/nettle.html
+"GnuTLS-3.8.1-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/make-ca.html
+"GnuTLS-3.8.1-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/libunistring.html
+"GnuTLS-3.8.1-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/libtasn1.html
+"GnuTLS-3.8.1-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/p11-kit.html

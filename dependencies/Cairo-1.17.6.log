@@ -1,0 +1,5 @@
+"Cairo-1.17.6-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/libpng.html
+"Cairo-1.17.6-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/pixman.html
+"Cairo-1.17.6-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/fontconfig.html
+"Cairo-1.17.6-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/glib2.html
+"Cairo-1.17.6-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/x7lib.html

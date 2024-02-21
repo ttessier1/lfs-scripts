@@ -1,0 +1,6 @@
+"colord-gtk-0.3.0-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/colord.html
+"colord-gtk-0.3.0-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/gtk3.html
+"colord-gtk-0.3.0-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/gobject-introspection.html
+"colord-gtk-0.3.0-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/gtk2.html
+"colord-gtk-0.3.0-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/gtk4.html
+"colord-gtk-0.3.0-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/vala.html

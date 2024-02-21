@@ -1,0 +1,12 @@
+"evolution-data-server-3.48.4-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/libical.html
+"evolution-data-server-3.48.4-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/libsecret.html
+"evolution-data-server-3.48.4-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/postlfs/nss.html
+"evolution-data-server-3.48.4-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/server/sqlite.html
+"evolution-data-server-3.48.4-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/gnome-online-accounts.html
+"evolution-data-server-3.48.4-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/gobject-introspection.html
+"evolution-data-server-3.48.4-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/x/gtk3.html
+"evolution-data-server-3.48.4-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/icu.html
+"evolution-data-server-3.48.4-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/multimedia/libcanberra.html
+"evolution-data-server-3.48.4-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/libgweather.html
+"evolution-data-server-3.48.4-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/vala.html
+"evolution-data-server-3.48.4-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/x/webkitgtk.html

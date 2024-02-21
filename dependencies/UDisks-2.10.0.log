@@ -1,0 +1,6 @@
+"UDisks-2.10.0-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/libatasmart.html
+"UDisks-2.10.0-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/libblockdev.html
+"UDisks-2.10.0-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/libgudev.html
+"UDisks-2.10.0-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/libxslt.html
+"UDisks-2.10.0-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/postlfs/polkit.html
+"UDisks-2.10.0-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/systemd.html

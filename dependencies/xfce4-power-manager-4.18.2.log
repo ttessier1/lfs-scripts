@@ -1,0 +1,4 @@
+"xfce4-power-manager-4.18.2-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/x/libnotify.html
+"xfce4-power-manager-4.18.2-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/upower.html
+"xfce4-power-manager-4.18.2-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/xfce4-panel.html
+"xfce4-power-manager-4.18.2-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/postlfs/polkit.html

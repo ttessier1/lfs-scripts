@@ -1,0 +1,4 @@
+"libass-0.17.1-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/freetype2.html
+"libass-0.17.1-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/fribidi.html
+"libass-0.17.1-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/nasm.html
+"libass-0.17.1-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/fontconfig.html

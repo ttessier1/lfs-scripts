@@ -1,0 +1,8 @@
+"Mutter-44.3-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/gnome-settings-daemon.html
+"Mutter-44.3-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/x/graphene.html
+"Mutter-44.3-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/x/libxcvt.html
+"Mutter-44.3-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/libxkbcommon.html
+"Mutter-44.3-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/multimedia/pipewire.html
+"Mutter-44.3-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/desktop-file-utils.html
+"Mutter-44.3-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/gobject-introspection.html
+"Mutter-44.3-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/x/startup-notification.html

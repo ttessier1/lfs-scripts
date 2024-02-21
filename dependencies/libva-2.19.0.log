@@ -1,0 +1,3 @@
+"libva-2.19.0-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/x/xorg7.html
+"libva-2.19.0-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/x/libdrm.html
+"libva-2.19.0-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/x/mesa.html

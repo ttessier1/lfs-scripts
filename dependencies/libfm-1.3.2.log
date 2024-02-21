@@ -1,0 +1,6 @@
+"libfm-1.3.2-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/x/gtk2.html
+"libfm-1.3.2-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/x/gtk3.html
+"libfm-1.3.2-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/menu-cache.html
+"libfm-1.3.2-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/libexif.html
+"libfm-1.3.2-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/vala.html
+"libfm-1.3.2-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/lxmenu-data.html

@@ -1,0 +1,17 @@
+"Evolution-3.48.4-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/x/adwaita-icon-theme.html
+"Evolution-3.48.4-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/evolution-data-server.html
+"Evolution-3.48.4-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/gcr4.html
+"Evolution-3.48.4-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/gnome-autoar.html
+"Evolution-3.48.4-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/shared-mime-info.html
+"Evolution-3.48.4-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/x/webkitgtk.html
+"Evolution-3.48.4-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/bogofilter.html
+"Evolution-3.48.4-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/enchant.html
+"Evolution-3.48.4-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/gnome-desktop.html
+"Evolution-3.48.4-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/gspell.html
+"Evolution-3.48.4-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/highlight.html
+"Evolution-3.48.4-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/pst/itstool.html
+"Evolution-3.48.4-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/multimedia/libcanberra.html
+"Evolution-3.48.4-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/libgweather.html
+"Evolution-3.48.4-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/x/libnotify.html
+"Evolution-3.48.4-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/server/openldap.html
+"Evolution-3.48.4-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/seahorse.html

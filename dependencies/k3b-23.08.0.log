@@ -1,0 +1,7 @@
+"k3b-23.08.0-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/frameworks5.html
+"k3b-23.08.0-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/libkcddb.html
+"k3b-23.08.0-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/multimedia/libsamplerate.html
+"k3b-23.08.0-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/shared-mime-info.html
+"k3b-23.08.0-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/multimedia/libburn.html
+"k3b-23.08.0-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/multimedia/libdvdread.html
+"k3b-23.08.0-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/multimedia/taglib.html

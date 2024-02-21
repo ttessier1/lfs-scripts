@@ -1,0 +1,4 @@
+"at-spi2-core-2.48.3-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/dbus.html
+"at-spi2-core-2.48.3-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/glib2.html
+"at-spi2-core-2.48.3-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/gnome/gsettings-desktop-schemas.html
+"at-spi2-core-2.48.3-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/x7lib.html

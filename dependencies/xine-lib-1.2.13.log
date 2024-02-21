@@ -1,0 +1,6 @@
+"xine-lib-1.2.13-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/x/installing.html
+"xine-lib-1.2.13-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/ffmpeg.html
+"xine-lib-1.2.13-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/alsa.html
+"xine-lib-1.2.13-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/pulseaudio.html
+"xine-lib-1.2.13-Required" https://jackaudio.org/
+"xine-lib-1.2.13-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/libdvdnav.html

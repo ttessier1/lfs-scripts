@@ -1,0 +1,6 @@
+"Cups-2.4.6-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/postlfs/gnutls.html
+"Cups-2.4.6-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/colord.html
+"Cups-2.4.6-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/dbus.html
+"Cups-2.4.6-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/libusb.html
+"Cups-2.4.6-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/postlfs/linux-pam.html
+"Cups-2.4.6-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/xsoft/xdg-utils.html

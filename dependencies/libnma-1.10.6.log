@@ -1,0 +1,6 @@
+"libnma-1.10.6-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/gnome/gcr.html
+"libnma-1.10.6-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/x/gtk3.html
+"libnma-1.10.6-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/iso-codes.html
+"libnma-1.10.6-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/networkmanager.html
+"libnma-1.10.6-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/x/gtk4.html
+"libnma-1.10.6-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/vala.html

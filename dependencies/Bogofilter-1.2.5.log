@@ -1,0 +1,3 @@
+"Bogofilter-1.2.5-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/server/db.html
+"Bogofilter-1.2.5-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/gsl.html
+"Bogofilter-1.2.5-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/libxml2.html

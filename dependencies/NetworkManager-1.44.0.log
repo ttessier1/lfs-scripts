@@ -1,0 +1,13 @@
+"NetworkManager-1.44.0-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/jansson.html
+"NetworkManager-1.44.0-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/libndp.html
+"NetworkManager-1.44.0-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/curl.html
+"NetworkManager-1.44.0-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/dhcpcd.html
+"NetworkManager-1.44.0-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/gobject-introspection.html
+"NetworkManager-1.44.0-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/postlfs/iptables.html
+"NetworkManager-1.44.0-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/newt.html
+"NetworkManager-1.44.0-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/postlfs/nss.html
+"NetworkManager-1.44.0-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/postlfs/polkit.html
+"NetworkManager-1.44.0-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/python-modules.html
+"NetworkManager-1.44.0-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/systemd.html
+"NetworkManager-1.44.0-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/vala.html
+"NetworkManager-1.44.0-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/wpa_supplicant.html

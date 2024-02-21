@@ -1,0 +1,5 @@
+"Pidgin-2.14.12-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/x/gtk2.html
+"Pidgin-2.14.12-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/libgcrypt.html
+"Pidgin-2.14.12-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/multimedia/gstreamer10.html
+"Pidgin-2.14.12-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/postlfs/gnutls.html
+"Pidgin-2.14.12-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/postlfs/nss.html

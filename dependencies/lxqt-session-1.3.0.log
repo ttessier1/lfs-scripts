@@ -1,0 +1,5 @@
+"lxqt-session-1.3.0-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/liblxqt.html
+"lxqt-session-1.3.0-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/lxqt-kwindowsystem.html
+"lxqt-session-1.3.0-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/kde/frameworks5.html
+"lxqt-session-1.3.0-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/qtxdg-tools.html
+"lxqt-session-1.3.0-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/xdg-user-dirs.html

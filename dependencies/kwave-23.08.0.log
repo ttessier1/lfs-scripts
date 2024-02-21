@@ -1,0 +1,8 @@
+"kwave-23.08.0-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/audiofile.html
+"kwave-23.08.0-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/fftw.html
+"kwave-23.08.0-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/id3lib.html
+"kwave-23.08.0-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/kde/frameworks5.html
+"kwave-23.08.0-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/alsa-lib.html
+"kwave-23.08.0-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/flac.html
+"kwave-23.08.0-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/libogg.html
+"kwave-23.08.0-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/pulseaudio.html

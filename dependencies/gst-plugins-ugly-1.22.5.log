@@ -1,0 +1,4 @@
+"gst-plugins-ugly-1.22.5-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/gst10-plugins-base.html
+"gst-plugins-ugly-1.22.5-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/liba52.html
+"gst-plugins-ugly-1.22.5-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/libdvdread.html
+"gst-plugins-ugly-1.22.5-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/x264.html

@@ -1,0 +1,4 @@
+"thunar-4.18.6-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/exo.html
+"thunar-4.18.6-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/libgudev.html
+"thunar-4.18.6-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/x/libnotify.html
+"thunar-4.18.6-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/pcre2.html

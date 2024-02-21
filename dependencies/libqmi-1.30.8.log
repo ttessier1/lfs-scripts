@@ -1,0 +1,4 @@
+"libqmi-1.30.8-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/glib2.html
+"libqmi-1.30.8-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/libgudev.html
+"libqmi-1.30.8-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/gobject-introspection.html
+"libqmi-1.30.8-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/libmbim.html

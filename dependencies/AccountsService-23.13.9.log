@@ -1,0 +1,4 @@
+"AccountsService-23.13.9-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/postlfs/polkit.html
+"AccountsService-23.13.9-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/gobject-introspection.html
+"AccountsService-23.13.9-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/systemd.html
+"AccountsService-23.13.9-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/vala.html

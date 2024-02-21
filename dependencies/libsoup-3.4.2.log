@@ -1,0 +1,7 @@
+"libsoup-3.4.2-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/glib-networking.html
+"libsoup-3.4.2-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/libpsl.html
+"libsoup-3.4.2-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/libxml2.html
+"libsoup-3.4.2-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/nghttp2.html
+"libsoup-3.4.2-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/server/sqlite.html
+"libsoup-3.4.2-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/gobject-introspection.html
+"libsoup-3.4.2-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/vala.html

@@ -1,0 +1,11 @@
+"gst-plugins-good-1.22.5-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/gst10-plugins-base.html
+"gst-plugins-good-1.22.5-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/x/cairo.html
+"gst-plugins-good-1.22.5-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/flac.html
+"gst-plugins-good-1.22.5-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/x/gdk-pixbuf.html
+"gst-plugins-good-1.22.5-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/lame.html
+"gst-plugins-good-1.22.5-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/basicnet/libsoup.html
+"gst-plugins-good-1.22.5-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/basicnet/libsoup3.html
+"gst-plugins-good-1.22.5-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/libvpx.html
+"gst-plugins-good-1.22.5-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/mpg123.html
+"gst-plugins-good-1.22.5-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/nasm.html
+"gst-plugins-good-1.22.5-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/pulseaudio.html

@@ -1,0 +1,8 @@
+"asymptote-2.86-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/gs.html
+"asymptote-2.86-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/texlive.html
+"asymptote-2.86-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/basicnet/curl.html
+"asymptote-2.86-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/x/freeglut.html
+"asymptote-2.86-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/gc.html
+"asymptote-2.86-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/x/glew.html
+"asymptote-2.86-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/glm.html
+"asymptote-2.86-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/basicnet/libtirpc.html

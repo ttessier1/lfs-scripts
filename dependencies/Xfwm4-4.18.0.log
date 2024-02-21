@@ -1,0 +1,3 @@
+"Xfwm4-4.18.0-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/gnome/libwnck.html
+"Xfwm4-4.18.0-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/libxfce4ui.html
+"Xfwm4-4.18.0-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/x/startup-notification.html

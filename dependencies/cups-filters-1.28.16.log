@@ -1,0 +1,12 @@
+"cups-filters-1.28.16-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/cups.html
+"cups-filters-1.28.16-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/glib2.html
+"cups-filters-1.28.16-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/gs.html
+"cups-filters-1.28.16-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/lcms2.html
+"cups-filters-1.28.16-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/poppler.html
+"cups-filters-1.28.16-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/qpdf.html
+"cups-filters-1.28.16-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/x/TTF-and-OTF-fonts.html
+"cups-filters-1.28.16-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/libexif.html
+"cups-filters-1.28.16-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/libjpeg.html
+"cups-filters-1.28.16-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/libpng.html
+"cups-filters-1.28.16-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/libtiff.html
+"cups-filters-1.28.16-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/mupdf.html

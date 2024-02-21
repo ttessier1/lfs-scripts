@@ -1,0 +1,5 @@
+"libxklavier-5.4-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/glib2.html
+"libxklavier-5.4-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/iso-codes.html
+"libxklavier-5.4-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/libxml2.html
+"libxklavier-5.4-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/x7lib.html
+"libxklavier-5.4-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/gobject-introspection.html

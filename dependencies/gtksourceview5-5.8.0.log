@@ -1,0 +1,4 @@
+"gtksourceview5-5.8.0-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/gtk4.html
+"gtksourceview5-5.8.0-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/pcre2.html
+"gtksourceview5-5.8.0-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/gobject-introspection.html
+"gtksourceview5-5.8.0-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/libxml2.html

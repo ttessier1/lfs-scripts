@@ -1,0 +1,13 @@
+"GTK+-3.24.38-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/at-spi2-core.html
+"GTK+-3.24.38-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/gdk-pixbuf.html
+"GTK+-3.24.38-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/libepoxy.html
+"GTK+-3.24.38-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/pango.html
+"GTK+-3.24.38-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/adwaita-icon-theme.html
+"GTK+-3.24.38-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/pst/docbook-xsl.html
+"GTK+-3.24.38-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/hicolor-icon-theme.html
+"GTK+-3.24.38-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/iso-codes.html
+"GTK+-3.24.38-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/libxkbcommon.html
+"GTK+-3.24.38-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/libxslt.html
+"GTK+-3.24.38-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/sassc.html
+"GTK+-3.24.38-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/wayland.html
+"GTK+-3.24.38-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/wayland-protocols.html

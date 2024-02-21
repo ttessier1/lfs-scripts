@@ -1,0 +1,6 @@
+"ModemManager-1.18.12-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/libgudev.html
+"ModemManager-1.18.12-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/gobject-introspection.html
+"ModemManager-1.18.12-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/libmbim.html
+"ModemManager-1.18.12-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/libqmi.html
+"ModemManager-1.18.12-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/postlfs/polkit.html
+"ModemManager-1.18.12-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/vala.html

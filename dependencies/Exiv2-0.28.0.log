@@ -1,0 +1,4 @@
+"Exiv2-0.28.0-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/cmake.html
+"Exiv2-0.28.0-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/brotli.html
+"Exiv2-0.28.0-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/basicnet/curl.html
+"Exiv2-0.28.0-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/inih.html

@@ -1,0 +1,11 @@
+"Cheese-44.1-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/x/clutter-gst.html
+"Cheese-44.1-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/x/clutter-gtk.html
+"Cheese-44.1-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/gnome-desktop.html
+"Cheese-44.1-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/multimedia/gst10-plugins-bad.html
+"Cheese-44.1-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/multimedia/gst10-plugins-good.html
+"Cheese-44.1-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/multimedia/v4l-utils.html
+"Cheese-44.1-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/multimedia/libcanberra.html
+"Cheese-44.1-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/libgudev.html
+"Cheese-44.1-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/gnome-video-effects.html
+"Cheese-44.1-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/gobject-introspection.html
+"Cheese-44.1-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/vala.html

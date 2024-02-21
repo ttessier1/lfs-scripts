@@ -1,0 +1,8 @@
+"gnome-maps-44.3-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/desktop-file-utils.html
+"gnome-maps-44.3-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/basicnet/geoclue2.html
+"gnome-maps-44.3-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/geocode-glib.html
+"gnome-maps-44.3-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/gjs.html
+"gnome-maps-44.3-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/x/libadwaita.html
+"gnome-maps-44.3-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/libshumate.html
+"gnome-maps-44.3-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/libgweather.html
+"gnome-maps-44.3-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/rest.html

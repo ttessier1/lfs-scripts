@@ -1,0 +1,6 @@
+"AbiWord-3.0.5-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/boost.html
+"AbiWord-3.0.5-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/basicnet/curl.html
+"AbiWord-3.0.5-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/fribidi.html
+"AbiWord-3.0.5-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/x/goffice010.html
+"AbiWord-3.0.5-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/wv.html
+"AbiWord-3.0.5-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/enchant.html

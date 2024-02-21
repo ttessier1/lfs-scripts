@@ -1,0 +1,4 @@
+"sddm-0.20.0-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/cmake.html
+"sddm-0.20.0-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/kde/extra-cmake-modules.html
+"sddm-0.20.0-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/qt5.html
+"sddm-0.20.0-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/qt5-alternate.html

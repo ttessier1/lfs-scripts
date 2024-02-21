@@ -1,0 +1,4 @@
+"NFS-Utils-2.6.3-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/libtirpc.html
+"NFS-Utils-2.6.3-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/libevent.html
+"NFS-Utils-2.6.3-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/rpcsvc-proto.html
+"NFS-Utils-2.6.3-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/server/sqlite.html

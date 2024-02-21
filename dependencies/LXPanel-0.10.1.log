@@ -1,0 +1,9 @@
+"LXPanel-0.10.1-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/x/gdk-pixbuf-xlib.html
+"LXPanel-0.10.1-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/x/keybinder.html
+"LXPanel-0.10.1-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/libwnck2.html
+"LXPanel-0.10.1-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/lxmenu-data.html
+"LXPanel-0.10.1-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/menu-cache.html
+"LXPanel-0.10.1-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/multimedia/alsa-lib.html
+"LXPanel-0.10.1-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/gnome/gnome-screenshot.html
+"LXPanel-0.10.1-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/libxml2.html
+"LXPanel-0.10.1-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/basicnet/wireless_tools.html

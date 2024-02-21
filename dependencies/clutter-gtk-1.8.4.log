@@ -1,0 +1,3 @@
+"clutter-gtk-1.8.4-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/clutter.html
+"clutter-gtk-1.8.4-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/gtk3.html
+"clutter-gtk-1.8.4-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/gobject-introspection.html

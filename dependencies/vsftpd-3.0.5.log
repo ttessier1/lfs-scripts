@@ -1,0 +1,2 @@
+"vsftpd-3.0.5-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/basicnet/libnsl.html
+"vsftpd-3.0.5-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/postlfs/linux-pam.html

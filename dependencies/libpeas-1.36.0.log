@@ -1,0 +1,4 @@
+"libpeas-1.36.0-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/gobject-introspection.html
+"libpeas-1.36.0-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/x/gtk3.html
+"libpeas-1.36.0-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/libxml2.html
+"libpeas-1.36.0-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/python-modules.html

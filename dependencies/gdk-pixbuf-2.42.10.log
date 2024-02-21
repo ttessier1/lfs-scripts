@@ -1,0 +1,7 @@
+"gdk-pixbuf-2.42.10-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/glib2.html
+"gdk-pixbuf-2.42.10-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/libjpeg.html
+"gdk-pixbuf-2.42.10-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/libpng.html
+"gdk-pixbuf-2.42.10-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/shared-mime-info.html
+"gdk-pixbuf-2.42.10-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/python-modules.html
+"gdk-pixbuf-2.42.10-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/librsvg.html
+"gdk-pixbuf-2.42.10-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/libtiff.html

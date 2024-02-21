@@ -1,0 +1,3 @@
+"Subversion-1.14.2-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/apr-util.html
+"Subversion-1.14.2-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/server/sqlite.html
+"Subversion-1.14.2-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/basicnet/serf.html

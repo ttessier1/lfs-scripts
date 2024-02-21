@@ -1,0 +1,7 @@
+"libgdata-0.18.1-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/basicnet/libsoup.html
+"libgdata-0.18.1-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/gnome-online-accounts.html
+"libgdata-0.18.1-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/x/gtk3.html
+"libgdata-0.18.1-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/json-glib.html
+"libgdata-0.18.1-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/vala.html
+"libgdata-0.18.1-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/gcr.html
+"libgdata-0.18.1-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/gobject-introspection.html

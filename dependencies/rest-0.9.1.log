@@ -1,0 +1,4 @@
+"rest-0.9.1-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/json-glib.html
+"rest-0.9.1-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/basicnet/libsoup3.html
+"rest-0.9.1-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/postlfs/make-ca.html
+"rest-0.9.1-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/gobject-introspection.html

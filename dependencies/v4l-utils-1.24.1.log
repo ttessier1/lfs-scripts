@@ -1,0 +1,6 @@
+"v4l-utils-1.24.1-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/llvm.html
+"v4l-utils-1.24.1-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/alsa-lib.html
+"v4l-utils-1.24.1-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/x/glu.html
+"v4l-utils-1.24.1-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/libjpeg.html
+"v4l-utils-1.24.1-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/x/qt5.html
+"v4l-utils-1.24.1-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/x/qt5-alternate.html

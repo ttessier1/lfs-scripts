@@ -1,0 +1,3 @@
+"libxcb-1.16-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/libXau.html
+"libxcb-1.16-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/xcb-proto.html
+"libxcb-1.16-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/libXdmcp.html

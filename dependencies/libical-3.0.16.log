@@ -1,0 +1,3 @@
+"libical-3.0.16-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/cmake.html
+"libical-3.0.16-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/gobject-introspection.html
+"libical-3.0.16-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/vala.html

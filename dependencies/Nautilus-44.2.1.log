@@ -1,0 +1,15 @@
+"Nautilus-44.2.1-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/bubblewrap.html
+"Nautilus-44.2.1-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/gexiv2.html
+"Nautilus-44.2.1-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/gnome-autoar.html
+"Nautilus-44.2.1-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/gnome-desktop.html
+"Nautilus-44.2.1-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/x/libadwaita.html
+"Nautilus-44.2.1-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/libcloudproviders.html
+"Nautilus-44.2.1-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/x/libnotify.html
+"Nautilus-44.2.1-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/libportal.html
+"Nautilus-44.2.1-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/libseccomp.html
+"Nautilus-44.2.1-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/tracker3.html
+"Nautilus-44.2.1-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/desktop-file-utils.html
+"Nautilus-44.2.1-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/exempi.html
+"Nautilus-44.2.1-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/gobject-introspection.html
+"Nautilus-44.2.1-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/multimedia/gst10-plugins-base.html
+"Nautilus-44.2.1-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/libexif.html

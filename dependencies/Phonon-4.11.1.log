@@ -1,0 +1,4 @@
+"Phonon-4.11.1-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/cmake.html
+"Phonon-4.11.1-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/extra-cmake-modules.html
+"Phonon-4.11.1-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/glib2.html
+"Phonon-4.11.1-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/x/qt5.html

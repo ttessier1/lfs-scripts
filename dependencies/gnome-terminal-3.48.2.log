@@ -1,0 +1,7 @@
+"gnome-terminal-3.48.2-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/dconf.html
+"gnome-terminal-3.48.2-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/gnome-shell.html
+"gnome-terminal-3.48.2-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/gsettings-desktop-schemas.html
+"gnome-terminal-3.48.2-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/pst/itstool.html
+"gnome-terminal-3.48.2-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/pcre2.html
+"gnome-terminal-3.48.2-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/vte.html
+"gnome-terminal-3.48.2-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/nautilus.html

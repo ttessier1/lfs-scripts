@@ -1,0 +1,4 @@
+"feh-3.10-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/libpng.html
+"feh-3.10-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/x/imlib2.html
+"feh-3.10-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/giflib.html
+"feh-3.10-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/basicnet/curl.html

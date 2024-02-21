@@ -1,0 +1,4 @@
+"GTK+-2.24.33-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/at-spi2-core.html
+"GTK+-2.24.33-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/gdk-pixbuf.html
+"GTK+-2.24.33-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/pango.html
+"GTK+-2.24.33-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/hicolor-icon-theme.html

@@ -1,0 +1,6 @@
+"Wireshark-4.0.7-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/cmake.html
+"Wireshark-4.0.7-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/glib2.html
+"Wireshark-4.0.7-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/libgcrypt.html
+"Wireshark-4.0.7-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/x/qt5.html
+"Wireshark-4.0.7-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/x/qt5-components.html
+"Wireshark-4.0.7-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/libpcap.html

@@ -1,0 +1,8 @@
+"Xwayland-23.2.0-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/libxcvt.html
+"Xwayland-23.2.0-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/pixman.html
+"Xwayland-23.2.0-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/wayland-protocols.html
+"Xwayland-23.2.0-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/x7app.html
+"Xwayland-23.2.0-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/x7font.html
+"Xwayland-23.2.0-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/libepoxy.html
+"Xwayland-23.2.0-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/basicnet/libtirpc.html
+"Xwayland-23.2.0-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/mesa.html

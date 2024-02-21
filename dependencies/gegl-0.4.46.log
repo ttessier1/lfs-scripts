@@ -1,0 +1,8 @@
+"gegl-0.4.46-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/babl.html
+"gegl-0.4.46-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/json-glib.html
+"gegl-0.4.46-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/libjpeg.html
+"gegl-0.4.46-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/libpng.html
+"gegl-0.4.46-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/gobject-introspection.html
+"gegl-0.4.46-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/graphviz.html
+"gegl-0.4.46-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/python-modules.html
+"gegl-0.4.46-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/python-modules.html

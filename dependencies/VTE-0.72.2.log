@@ -1,0 +1,7 @@
+"VTE-0.72.2-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/x/gtk3.html
+"VTE-0.72.2-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/libxml2.html
+"VTE-0.72.2-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/pcre2.html
+"VTE-0.72.2-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/icu.html
+"VTE-0.72.2-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/postlfs/gnutls.html
+"VTE-0.72.2-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/gobject-introspection.html
+"VTE-0.72.2-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/vala.html

@@ -1,0 +1,14 @@
+"Tracker-miners-3.5.2-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/multimedia/gst10-plugins-base.html
+"Tracker-miners-3.5.2-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/tracker3.html
+"Tracker-miners-3.5.2-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/exempi.html
+"Tracker-miners-3.5.2-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/gexiv2.html
+"Tracker-miners-3.5.2-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/giflib.html
+"Tracker-miners-3.5.2-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/multimedia/gst10-plugins-base.html
+"Tracker-miners-3.5.2-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/multimedia/gst10-plugins-good.html
+"Tracker-miners-3.5.2-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/multimedia/gst10-libav.html
+"Tracker-miners-3.5.2-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/icu.html
+"Tracker-miners-3.5.2-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/libexif.html
+"Tracker-miners-3.5.2-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/libgrss.html
+"Tracker-miners-3.5.2-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/libgxps.html
+"Tracker-miners-3.5.2-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/libseccomp.html
+"Tracker-miners-3.5.2-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/poppler.html

@@ -1,0 +1,5 @@
+"gnome-keyring-42.1-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/dbus.html
+"gnome-keyring-42.1-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/gcr.html
+"gnome-keyring-42.1-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/postlfs/linux-pam.html
+"gnome-keyring-42.1-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/libxslt.html
+"gnome-keyring-42.1-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/postlfs/openssh.html

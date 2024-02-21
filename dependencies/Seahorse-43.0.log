@@ -1,0 +1,11 @@
+"Seahorse-43.0-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/gcr.html
+"Seahorse-43.0-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/postlfs/gnupg.html
+"Seahorse-43.0-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/postlfs/gpgme.html
+"Seahorse-43.0-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/pst/itstool.html
+"Seahorse-43.0-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/x/libhandy1.html
+"Seahorse-43.0-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/postlfs/libpwquality.html
+"Seahorse-43.0-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/libsecret.html
+"Seahorse-43.0-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/basicnet/libsoup3.html
+"Seahorse-43.0-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/postlfs/p11-kit.html
+"Seahorse-43.0-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/postlfs/openssh.html
+"Seahorse-43.0-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/vala.html

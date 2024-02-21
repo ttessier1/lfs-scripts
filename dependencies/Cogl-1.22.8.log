@@ -1,0 +1,7 @@
+"Cogl-1.22.8-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/cairo.html
+"Cogl-1.22.8-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/gdk-pixbuf.html
+"Cogl-1.22.8-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/glu.html
+"Cogl-1.22.8-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/mesa.html
+"Cogl-1.22.8-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/pango.html
+"Cogl-1.22.8-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/wayland.html
+"Cogl-1.22.8-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/gobject-introspection.html

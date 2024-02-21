@@ -1,0 +1,8 @@
+"lightdm-1.32.0-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/xfce/exo.html
+"lightdm-1.32.0-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/libgcrypt.html
+"lightdm-1.32.0-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/pst/itstool.html
+"lightdm-1.32.0-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/postlfs/linux-pam.html
+"lightdm-1.32.0-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/xorg-server.html
+"lightdm-1.32.0-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/gobject-introspection.html
+"lightdm-1.32.0-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/libxklavier.html
+"lightdm-1.32.0-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/vala.html

@@ -1,0 +1,2 @@
+"sendmail-8.17.2-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/openldap.html
+"sendmail-8.17.2-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/postlfs/cyrus-sasl.html

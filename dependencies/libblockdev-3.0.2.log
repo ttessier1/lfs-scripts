@@ -1,0 +1,7 @@
+"libblockdev-3.0.2-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/glib2.html
+"libblockdev-3.0.2-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/postlfs/cryptsetup.html
+"libblockdev-3.0.2-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/gobject-introspection.html
+"libblockdev-3.0.2-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/keyutils.html
+"libblockdev-3.0.2-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/libbytesize.html
+"libblockdev-3.0.2-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/libnvme.html
+"libblockdev-3.0.2-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/postlfs/lvm2.html

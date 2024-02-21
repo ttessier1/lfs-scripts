@@ -1,0 +1,3 @@
+"libmypaint-1.6.1-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/json-c.html
+"libmypaint-1.6.1-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/glib2.html
+"libmypaint-1.6.1-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/gobject-introspection.html

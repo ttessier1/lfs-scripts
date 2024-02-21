@@ -1,0 +1,5 @@
+"Node.js-18.17.1-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/which.html
+"Node.js-18.17.1-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/basicnet/c-ares.html
+"Node.js-18.17.1-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/icu.html
+"Node.js-18.17.1-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/libuv.html
+"Node.js-18.17.1-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/basicnet/nghttp2.html

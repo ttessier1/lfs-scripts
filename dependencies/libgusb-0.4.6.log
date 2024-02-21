@@ -1,0 +1,6 @@
+"libgusb-0.4.6-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/json-glib.html
+"libgusb-0.4.6-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/libusb.html
+"libgusb-0.4.6-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/gobject-introspection.html
+"libgusb-0.4.6-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/umockdev.html
+"libgusb-0.4.6-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/usbutils.html
+"libgusb-0.4.6-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/vala.html

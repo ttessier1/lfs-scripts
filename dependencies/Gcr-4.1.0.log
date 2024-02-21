@@ -1,0 +1,9 @@
+"Gcr-4.1.0-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/glib2.html
+"Gcr-4.1.0-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/libgcrypt.html
+"Gcr-4.1.0-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/postlfs/p11-kit.html
+"Gcr-4.1.0-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/postlfs/gnupg.html
+"Gcr-4.1.0-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/gobject-introspection.html
+"Gcr-4.1.0-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/x/gtk4.html
+"Gcr-4.1.0-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/libsecret.html
+"Gcr-4.1.0-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/libxslt.html
+"Gcr-4.1.0-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/vala.html

@@ -1,0 +1,3 @@
+"gtksourceview4-4.8.4-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/gtk3.html
+"gtksourceview4-4.8.4-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/gobject-introspection.html
+"gtksourceview4-4.8.4-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/libxml2.html

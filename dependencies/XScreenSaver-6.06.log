@@ -1,0 +1,4 @@
+"XScreenSaver-6.06-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/x/gtk3.html
+"XScreenSaver-6.06-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/x/libglade.html
+"XScreenSaver-6.06-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/x/x7app.html
+"XScreenSaver-6.06-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/x/glu.html

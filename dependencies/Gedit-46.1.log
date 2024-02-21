@@ -1,0 +1,9 @@
+"Gedit-46.1-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/gnome/gsettings-desktop-schemas.html
+"Gedit-46.1-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/pst/itstool.html
+"Gedit-46.1-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/gnome/libpeas.html
+"Gedit-46.1-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/x/libgedit-gtksourceview.html
+"Gedit-46.1-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/x/tepl.html
+"Gedit-46.1-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/gspell.html
+"Gedit-46.1-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/gnome/gvfs.html
+"Gedit-46.1-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/iso-codes.html
+"Gedit-46.1-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/python-modules.html

@@ -1,0 +1,4 @@
+"Okular-23.08.0-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/frameworks5.html
+"Okular-23.08.0-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/libkexiv2.html
+"Okular-23.08.0-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/libtiff.html
+"Okular-23.08.0-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/poppler.html

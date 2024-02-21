@@ -1,0 +1,11 @@
+"Gvfs-1.50.6-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/dbus.html
+"Gvfs-1.50.6-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/glib2.html
+"Gvfs-1.50.6-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/libusb.html
+"Gvfs-1.50.6-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/libsecret.html
+"Gvfs-1.50.6-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/gcr.html
+"Gvfs-1.50.6-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/x/gtk3.html
+"Gvfs-1.50.6-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/multimedia/libcdio.html
+"Gvfs-1.50.6-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/libgudev.html
+"Gvfs-1.50.6-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/basicnet/libsoup3.html
+"Gvfs-1.50.6-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/systemd.html
+"Gvfs-1.50.6-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/udisks2.html

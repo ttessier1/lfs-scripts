@@ -1,0 +1,4 @@
+"gst-plugins-bad-1.22.5-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/gst10-plugins-base.html
+"gst-plugins-bad-1.22.5-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/libdvdread.html
+"gst-plugins-bad-1.22.5-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/libdvdnav.html
+"gst-plugins-bad-1.22.5-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/soundtouch.html

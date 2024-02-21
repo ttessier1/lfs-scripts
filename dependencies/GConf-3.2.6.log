@@ -1,0 +1,5 @@
+"GConf-3.2.6-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/dbus-glib.html
+"GConf-3.2.6-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/libxml2.html
+"GConf-3.2.6-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/gobject-introspection.html
+"GConf-3.2.6-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/x/gtk3.html
+"GConf-3.2.6-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/postlfs/polkit.html

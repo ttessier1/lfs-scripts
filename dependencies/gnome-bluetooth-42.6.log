@@ -1,0 +1,6 @@
+"gnome-bluetooth-42.6-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/x/gtk4.html
+"gnome-bluetooth-42.6-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/gsound.html
+"gnome-bluetooth-42.6-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/x/libnotify.html
+"gnome-bluetooth-42.6-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/upower.html
+"gnome-bluetooth-42.6-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/gobject-introspection.html
+"gnome-bluetooth-42.6-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/x/libadwaita.html

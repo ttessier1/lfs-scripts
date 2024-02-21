@@ -1,0 +1,16 @@
+"Thunderbird-115.2.0-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/cbindgen.html
+"Thunderbird-115.2.0-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/dbus-glib.html
+"Thunderbird-115.2.0-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/x/gtk3.html
+"Thunderbird-115.2.0-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/llvm.html
+"Thunderbird-115.2.0-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/nodejs.html
+"Thunderbird-115.2.0-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/multimedia/pulseaudio.html
+"Thunderbird-115.2.0-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/multimedia/alsa-lib.html
+"Thunderbird-115.2.0-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/python3.html
+"Thunderbird-115.2.0-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/x/startup-notification.html
+"Thunderbird-115.2.0-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/zip.html
+"Thunderbird-115.2.0-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/unzip.html
+"Thunderbird-115.2.0-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/basicnet/libevent.html
+"Thunderbird-115.2.0-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/multimedia/libvpx.html
+"Thunderbird-115.2.0-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/nasm.html
+"Thunderbird-115.2.0-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/nspr.html
+"Thunderbird-115.2.0-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/postlfs/nss.html

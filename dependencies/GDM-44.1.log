@@ -1,0 +1,5 @@
+"GDM-44.1-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/accountsservice.html
+"GDM-44.1-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/gnome/dconf.html
+"GDM-44.1-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/multimedia/libcanberra.html
+"GDM-44.1-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/gtk3.html
+"GDM-44.1-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/postlfs/linux-pam.html

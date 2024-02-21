@@ -1,0 +1,6 @@
+"librsvg-2.56.3-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/x/cairo.html
+"librsvg-2.56.3-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/x/gdk-pixbuf.html
+"librsvg-2.56.3-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/x/pango.html
+"librsvg-2.56.3-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/rust.html
+"librsvg-2.56.3-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/gobject-introspection.html
+"librsvg-2.56.3-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/vala.html

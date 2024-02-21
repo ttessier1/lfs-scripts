@@ -1,0 +1,4 @@
+"libxkbcommon-1.5.0-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/x/xkeyboard-config.html
+"libxkbcommon-1.5.0-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/x/libxcb.html
+"libxkbcommon-1.5.0-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/wayland.html
+"libxkbcommon-1.5.0-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/wayland-protocols.html

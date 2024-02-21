@@ -1,0 +1,4 @@
+"libcanberra-0.30-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/libvorbis.html
+"libcanberra-0.30-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/alsa-lib.html
+"libcanberra-0.30-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/gstreamer10.html
+"libcanberra-0.30-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/x/gtk3.html

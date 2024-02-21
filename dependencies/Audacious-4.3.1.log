@@ -1,0 +1,5 @@
+"Audacious-4.3.1-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/x/gtk2.html
+"Audacious-4.3.1-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/x/gtk3.html
+"Audacious-4.3.1-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/x/qt5.html
+"Audacious-4.3.1-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/x/qt5-components.html
+"Audacious-4.3.1-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/libarchive.html

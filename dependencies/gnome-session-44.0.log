@@ -1,0 +1,5 @@
+"gnome-session-44.0-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/gnome-desktop.html
+"gnome-session-44.0-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/json-glib.html
+"gnome-session-44.0-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/x/mesa.html
+"gnome-session-44.0-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/systemd.html
+"gnome-session-44.0-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/upower.html

@@ -1,0 +1,12 @@
+"EOG-44.3-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/x/adwaita-icon-theme.html
+"EOG-44.3-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/exempi.html
+"EOG-44.3-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/gnome-desktop.html
+"EOG-44.3-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/x/libhandy1.html
+"EOG-44.3-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/libjpeg.html
+"EOG-44.3-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/libpeas.html
+"EOG-44.3-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/shared-mime-info.html
+"EOG-44.3-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/gobject-introspection.html
+"EOG-44.3-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/lcms2.html
+"EOG-44.3-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/libexif.html
+"EOG-44.3-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/librsvg.html
+"EOG-44.3-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/webp-pixbuf-loader.html

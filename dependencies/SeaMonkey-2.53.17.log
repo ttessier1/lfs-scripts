@@ -1,0 +1,16 @@
+"SeaMonkey-2.53.17-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/autoconf213.html
+"SeaMonkey-2.53.17-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/cbindgen.html
+"SeaMonkey-2.53.17-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/x/gtk3.html
+"SeaMonkey-2.53.17-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/nodejs.html
+"SeaMonkey-2.53.17-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/python2.html
+"SeaMonkey-2.53.17-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/unzip.html
+"SeaMonkey-2.53.17-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/yasm.html
+"SeaMonkey-2.53.17-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/zip.html
+"SeaMonkey-2.53.17-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/icu.html
+"SeaMonkey-2.53.17-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/basicnet/libevent.html
+"SeaMonkey-2.53.17-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/libwebp.html
+"SeaMonkey-2.53.17-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/llvm.html
+"SeaMonkey-2.53.17-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/nasm.html
+"SeaMonkey-2.53.17-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/nspr.html
+"SeaMonkey-2.53.17-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/postlfs/nss.html
+"SeaMonkey-2.53.17-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/multimedia/pulseaudio.html

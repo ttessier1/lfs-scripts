@@ -1,0 +1,8 @@
+"Avahi-0.8-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/glib2.html
+"Avahi-0.8-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/gobject-introspection.html
+"Avahi-0.8-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/x/gtk2.html
+"Avahi-0.8-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/x/gtk3.html
+"Avahi-0.8-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/libdaemon.html
+"Avahi-0.8-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/x/libglade.html
+"Avahi-0.8-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/x/qt5.html
+"Avahi-0.8-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/x/qt5-alternate.html

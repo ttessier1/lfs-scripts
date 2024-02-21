@@ -1,0 +1,5 @@
+"GeoClue-2.7.0-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/json-glib.html
+"GeoClue-2.7.0-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/libsoup3.html
+"GeoClue-2.7.0-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/ModemManager.html
+"GeoClue-2.7.0-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/vala.html
+"GeoClue-2.7.0-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/avahi.html

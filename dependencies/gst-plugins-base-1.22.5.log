@@ -1,0 +1,15 @@
+"gst-plugins-base-1.22.5-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/gstreamer10.html
+"gst-plugins-base-1.22.5-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/alsa-lib.html
+"gst-plugins-base-1.22.5-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/cdparanoia.html
+"gst-plugins-base-1.22.5-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/gobject-introspection.html
+"gst-plugins-base-1.22.5-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/iso-codes.html
+"gst-plugins-base-1.22.5-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/libgudev.html
+"gst-plugins-base-1.22.5-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/libjpeg.html
+"gst-plugins-base-1.22.5-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/libogg.html
+"gst-plugins-base-1.22.5-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/libpng.html
+"gst-plugins-base-1.22.5-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/libtheora.html
+"gst-plugins-base-1.22.5-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/libvorbis.html
+"gst-plugins-base-1.22.5-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/x/mesa.html
+"gst-plugins-base-1.22.5-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/x/pango.html
+"gst-plugins-base-1.22.5-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/wayland-protocols.html
+"gst-plugins-base-1.22.5-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/x/x7lib.html

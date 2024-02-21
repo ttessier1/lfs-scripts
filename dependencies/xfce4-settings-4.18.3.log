@@ -1,0 +1,5 @@
+"xfce4-settings-4.18.3-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/exo.html
+"xfce4-settings-4.18.3-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/garcon.html
+"xfce4-settings-4.18.3-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/multimedia/libcanberra.html
+"xfce4-settings-4.18.3-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/x/libnotify.html
+"xfce4-settings-4.18.3-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/x/libxklavier.html

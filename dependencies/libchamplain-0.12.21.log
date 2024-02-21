@@ -1,0 +1,6 @@
+"libchamplain-0.12.21-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/x/clutter-gtk.html
+"libchamplain-0.12.21-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/x/gtk3.html
+"libchamplain-0.12.21-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/basicnet/libsoup3.html
+"libchamplain-0.12.21-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/server/sqlite.html
+"libchamplain-0.12.21-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/gobject-introspection.html
+"libchamplain-0.12.21-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/vala.html

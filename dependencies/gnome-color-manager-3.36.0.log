@@ -1,0 +1,7 @@
+"gnome-color-manager-3.36.0-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/colord.html
+"gnome-color-manager-3.36.0-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/x/gtk3.html
+"gnome-color-manager-3.36.0-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/pst/itstool.html
+"gnome-color-manager-3.36.0-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/lcms2.html
+"gnome-color-manager-3.36.0-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/multimedia/libcanberra.html
+"gnome-color-manager-3.36.0-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/libexif.html
+"gnome-color-manager-3.36.0-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/desktop-file-utils.html

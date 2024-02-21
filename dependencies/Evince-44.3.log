@@ -1,0 +1,12 @@
+"Evince-44.3-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/x/adwaita-icon-theme.html
+"Evince-44.3-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/gsettings-desktop-schemas.html
+"Evince-44.3-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/x/gtk3.html
+"Evince-44.3-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/pst/itstool.html
+"Evince-44.3-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/x/libhandy1.html
+"Evince-44.3-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/libxml2.html
+"Evince-44.3-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/openjpeg2.html
+"Evince-44.3-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/gnome-keyring.html
+"Evince-44.3-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/gobject-introspection.html
+"Evince-44.3-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/libarchive.html
+"Evince-44.3-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/libsecret.html
+"Evince-44.3-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/poppler.html

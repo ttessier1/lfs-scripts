@@ -1,0 +1,3 @@
+"libxfce4util-4.18.1-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/glib2.html
+"libxfce4util-4.18.1-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/gobject-introspection.html
+"libxfce4util-4.18.1-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/vala.html

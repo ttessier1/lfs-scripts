@@ -1,0 +1,13 @@
+"Samba-4.18.6-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/postlfs/gnutls.html
+"Samba-4.18.6-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/jansson.html
+"Samba-4.18.6-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/perl-modules.html
+"Samba-4.18.6-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/libtirpc.html
+"Samba-4.18.6-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/perl-modules.html
+"Samba-4.18.6-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/rpcsvc-proto.html
+"Samba-4.18.6-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/postlfs/fuse.html
+"Samba-4.18.6-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/postlfs/gpgme.html
+"Samba-4.18.6-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/icu.html
+"Samba-4.18.6-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/libtasn1.html
+"Samba-4.18.6-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/libxslt.html
+"Samba-4.18.6-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/postlfs/linux-pam.html
+"Samba-4.18.6-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/server/openldap.html

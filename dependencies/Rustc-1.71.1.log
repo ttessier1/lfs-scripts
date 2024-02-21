@@ -1,0 +1,4 @@
+"Rustc-1.71.1-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/cmake.html
+"Rustc-1.71.1-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/basicnet/curl.html
+"Rustc-1.71.1-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/libssh2.html
+"Rustc-1.71.1-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/llvm.html

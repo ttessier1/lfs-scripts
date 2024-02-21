@@ -1,0 +1,5 @@
+"libportal-0.6-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/gobject-introspection.html
+"libportal-0.6-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/x/gtk3.html
+"libportal-0.6-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/x/gtk4.html
+"libportal-0.6-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/x/qt5.html
+"libportal-0.6-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/x/qt5-alternate.html

@@ -1,0 +1,8 @@
+"Xorg-Server-21.1.8-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/libxcvt.html
+"Xorg-Server-21.1.8-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/pixman.html
+"Xorg-Server-21.1.8-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/x7font.html
+"Xorg-Server-21.1.8-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/xkeyboard-config.html
+"Xorg-Server-21.1.8-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/libepoxy.html
+"Xorg-Server-21.1.8-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/basicnet/libtirpc.html
+"Xorg-Server-21.1.8-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/systemd.html
+"Xorg-Server-21.1.8-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/x7driver.html

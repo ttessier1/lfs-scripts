@@ -1,0 +1,5 @@
+"Polkit-123-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/glib2.html
+"Polkit-123-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/duktape.html
+"Polkit-123-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/gobject-introspection.html
+"Polkit-123-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/libxslt.html
+"Polkit-123-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/linux-pam.html

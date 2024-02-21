@@ -1,0 +1,5 @@
+"network-manager-applet-1.32.0-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/x/gtk3.html
+"network-manager-applet-1.32.0-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/libnma.html
+"network-manager-applet-1.32.0-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/gnome/libsecret.html
+"network-manager-applet-1.32.0-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/gobject-introspection.html
+"network-manager-applet-1.32.0-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/ModemManager.html

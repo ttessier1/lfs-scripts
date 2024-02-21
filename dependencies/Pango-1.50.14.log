@@ -1,0 +1,8 @@
+"Pango-1.50.14-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/fontconfig.html
+"Pango-1.50.14-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/freetype2.html
+"Pango-1.50.14-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/harfbuzz.html
+"Pango-1.50.14-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/fribidi.html
+"Pango-1.50.14-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/glib2.html
+"Pango-1.50.14-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/cairo.html
+"Pango-1.50.14-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/gobject-introspection.html
+"Pango-1.50.14-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/x7lib.html

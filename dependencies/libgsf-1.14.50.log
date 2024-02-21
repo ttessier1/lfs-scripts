@@ -1,0 +1,3 @@
+"libgsf-1.14.50-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/glib2.html
+"libgsf-1.14.50-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/libxml2.html
+"libgsf-1.14.50-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/x/gdk-pixbuf.html

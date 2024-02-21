@@ -1,0 +1,6 @@
+"PulseAudio-16.1-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/libsndfile.html
+"PulseAudio-16.1-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/alsa-lib.html
+"PulseAudio-16.1-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/dbus.html
+"PulseAudio-16.1-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/glib2.html
+"PulseAudio-16.1-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/speex.html
+"PulseAudio-16.1-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/x/x7lib.html

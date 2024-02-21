@@ -1,0 +1,4 @@
+"Yelp-42.2-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/gsettings-desktop-schemas.html
+"Yelp-42.2-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/x/webkitgtk.html
+"Yelp-42.2-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/yelp-xsl.html
+"Yelp-42.2-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/desktop-file-utils.html

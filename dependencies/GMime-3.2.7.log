@@ -1,0 +1,4 @@
+"GMime-3.2.7-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/glib2.html
+"GMime-3.2.7-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/libgpg-error.html
+"GMime-3.2.7-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/gobject-introspection.html
+"GMime-3.2.7-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/libidn2.html

@@ -1,0 +1,4 @@
+"BIND-9.18.18-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/libuv.html
+"BIND-9.18.18-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/json-c.html
+"BIND-9.18.18-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/postlfs/libcap.html
+"BIND-9.18.18-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/basicnet/nghttp2.html

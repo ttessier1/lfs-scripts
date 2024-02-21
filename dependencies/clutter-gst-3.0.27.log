@@ -1,0 +1,5 @@
+"clutter-gst-3.0.27-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/clutter.html
+"clutter-gst-3.0.27-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/multimedia/gst10-plugins-base.html
+"clutter-gst-3.0.27-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/libgudev.html
+"clutter-gst-3.0.27-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/gobject-introspection.html
+"clutter-gst-3.0.27-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/multimedia/gst10-plugins-bad.html

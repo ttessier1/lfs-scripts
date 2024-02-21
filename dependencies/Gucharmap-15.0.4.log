@@ -1,0 +1,8 @@
+"Gucharmap-15.0.4-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/desktop-file-utils.html
+"Gucharmap-15.0.4-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/gsettings-desktop-schemas.html
+"Gucharmap-15.0.4-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/x/gtk3.html
+"Gucharmap-15.0.4-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/pst/itstool.html
+"Gucharmap-15.0.4-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/pcre2.html
+"Gucharmap-15.0.4-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/unzip.html
+"Gucharmap-15.0.4-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/gobject-introspection.html
+"Gucharmap-15.0.4-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/vala.html

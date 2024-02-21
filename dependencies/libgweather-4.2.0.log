@@ -1,0 +1,7 @@
+"libgweather-4.2.0-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/geocode-glib.html
+"libgweather-4.2.0-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/x/gtk3.html
+"libgweather-4.2.0-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/basicnet/libsoup3.html
+"libgweather-4.2.0-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/python-modules.html
+"libgweather-4.2.0-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/gobject-introspection.html
+"libgweather-4.2.0-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/libxml2.html
+"libgweather-4.2.0-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/vala.html

@@ -1,0 +1,11 @@
+"Brasero-3.12.3-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/multimedia/gst10-plugins-base.html
+"Brasero-3.12.3-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/pst/itstool.html
+"Brasero-3.12.3-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/multimedia/libcanberra.html
+"Brasero-3.12.3-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/x/libnotify.html
+"Brasero-3.12.3-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/gobject-introspection.html
+"Brasero-3.12.3-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/multimedia/libburn.html
+"Brasero-3.12.3-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/multimedia/libisoburn.html
+"Brasero-3.12.3-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/multimedia/libisofs.html
+"Brasero-3.12.3-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/nautilus.html
+"Brasero-3.12.3-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/tracker3.html
+"Brasero-3.12.3-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/totem-pl-parser.html

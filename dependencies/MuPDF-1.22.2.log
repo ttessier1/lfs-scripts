@@ -1,0 +1,6 @@
+"MuPDF-1.22.2-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/x/glu.html
+"MuPDF-1.22.2-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/x/x7lib.html
+"MuPDF-1.22.2-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/harfbuzz.html
+"MuPDF-1.22.2-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/libjpeg.html
+"MuPDF-1.22.2-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/openjpeg2.html
+"MuPDF-1.22.2-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/basicnet/curl.html

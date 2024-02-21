@@ -1,0 +1,10 @@
+"Mesa-23.1.6-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/x7lib.html
+"Mesa-23.1.6-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/libdrm.html
+"Mesa-23.1.6-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/python-modules.html
+"Mesa-23.1.6-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/multimedia/libva.html
+"Mesa-23.1.6-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/multimedia/libvdpau.html
+"Mesa-23.1.6-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/llvm.html
+"Mesa-23.1.6-Optional" https://docs.mesa3d.org/systems.html
+"Mesa-23.1.6-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/wayland-protocols.html
+"Mesa-23.1.6-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/kde/plasma-all.html
+"Mesa-23.1.6-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/gtk3.html

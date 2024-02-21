@@ -1,0 +1,9 @@
+"Clutter-1.26.4-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/at-spi2-core.html
+"Clutter-1.26.4-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/cogl.html
+"Clutter-1.26.4-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/json-glib.html
+"Clutter-1.26.4-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/gobject-introspection.html
+"Clutter-1.26.4-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/gtk3.html
+"Clutter-1.26.4-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/libgudev.html
+"Clutter-1.26.4-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/x7driver.html
+"Clutter-1.26.4-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/libxkbcommon.html
+"Clutter-1.26.4-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/wayland.html

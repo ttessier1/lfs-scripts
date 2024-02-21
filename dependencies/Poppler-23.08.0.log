@@ -1,0 +1,10 @@
+"Poppler-23.08.0-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/cmake.html
+"Poppler-23.08.0-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/fontconfig.html
+"Poppler-23.08.0-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/gobject-introspection.html
+"Poppler-23.08.0-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/boost.html
+"Poppler-23.08.0-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/x/cairo.html
+"Poppler-23.08.0-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/lcms2.html
+"Poppler-23.08.0-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/libjpeg.html
+"Poppler-23.08.0-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/libpng.html
+"Poppler-23.08.0-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/postlfs/nss.html
+"Poppler-23.08.0-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/openjpeg2.html

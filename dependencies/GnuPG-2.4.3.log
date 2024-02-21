@@ -1,0 +1,7 @@
+"GnuPG-2.4.3-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/libassuan.html
+"GnuPG-2.4.3-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/libgcrypt.html
+"GnuPG-2.4.3-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/libksba.html
+"GnuPG-2.4.3-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/npth.html
+"GnuPG-2.4.3-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/server/openldap.html
+"GnuPG-2.4.3-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/gnutls.html
+"GnuPG-2.4.3-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/pinentry.html

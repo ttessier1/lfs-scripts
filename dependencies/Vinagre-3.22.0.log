@@ -1,0 +1,6 @@
+"Vinagre-3.22.0-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/x/gtk-vnc.html
+"Vinagre-3.22.0-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/pst/itstool.html
+"Vinagre-3.22.0-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/libsecret.html
+"Vinagre-3.22.0-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/telepathy-glib.html
+"Vinagre-3.22.0-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/vala.html
+"Vinagre-3.22.0-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/vte.html

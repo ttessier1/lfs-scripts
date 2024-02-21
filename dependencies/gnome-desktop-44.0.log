@@ -1,0 +1,10 @@
+"gnome-desktop-44.0-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/gsettings-desktop-schemas.html
+"gnome-desktop-44.0-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/x/gtk3.html
+"gnome-desktop-44.0-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/x/gtk4.html
+"gnome-desktop-44.0-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/iso-codes.html
+"gnome-desktop-44.0-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/pst/itstool.html
+"gnome-desktop-44.0-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/libseccomp.html
+"gnome-desktop-44.0-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/libxml2.html
+"gnome-desktop-44.0-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/x/xkeyboard-config.html
+"gnome-desktop-44.0-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/bubblewrap.html
+"gnome-desktop-44.0-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/gobject-introspection.html

@@ -1,0 +1,15 @@
+"GTK-4.12.0-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/fribidi.html
+"GTK-4.12.0-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/gdk-pixbuf.html
+"GTK-4.12.0-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/graphene.html
+"GTK-4.12.0-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/iso-codes.html
+"GTK-4.12.0-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/libepoxy.html
+"GTK-4.12.0-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/libxkbcommon.html
+"GTK-4.12.0-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/pango.html
+"GTK-4.12.0-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/python-modules.html
+"GTK-4.12.0-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/wayland-protocols.html
+"GTK-4.12.0-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/adwaita-icon-theme.html
+"GTK-4.12.0-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/multimedia/gst10-plugins-bad.html
+"GTK-4.12.0-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/multimedia/gst10-plugins-good.html
+"GTK-4.12.0-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/multimedia/libvpx.html
+"GTK-4.12.0-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/hicolor-icon-theme.html
+"GTK-4.12.0-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/librsvg.html

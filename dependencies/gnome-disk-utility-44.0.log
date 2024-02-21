@@ -1,0 +1,7 @@
+"gnome-disk-utility-44.0-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/gnome-settings-daemon.html
+"gnome-disk-utility-44.0-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/pst/itstool.html
+"gnome-disk-utility-44.0-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/multimedia/libdvdread.html
+"gnome-disk-utility-44.0-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/x/libhandy1.html
+"gnome-disk-utility-44.0-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/postlfs/libpwquality.html
+"gnome-disk-utility-44.0-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/libsecret.html
+"gnome-disk-utility-44.0-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/udisks2.html

@@ -1,0 +1,4 @@
+"LXSession-0.5.5-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/dbus-glib.html
+"LXSession-0.5.5-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/libunique.html
+"LXSession-0.5.5-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/postlfs/polkit.html
+"LXSession-0.5.5-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/vala.html

@@ -1,0 +1,5 @@
+"volume_key-0.3.12-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/cryptsetup.html
+"volume_key-0.3.12-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/glib2.html
+"volume_key-0.3.12-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/gnupg.html
+"volume_key-0.3.12-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/gpgme.html
+"volume_key-0.3.12-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/nss.html

@@ -1,0 +1,7 @@
+"Grilo-0.3.16-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/glib2.html
+"Grilo-0.3.16-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/libxml2.html
+"Grilo-0.3.16-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/gobject-introspection.html
+"Grilo-0.3.16-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/x/gtk3.html
+"Grilo-0.3.16-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/basicnet/libsoup3.html
+"Grilo-0.3.16-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/totem-pl-parser.html
+"Grilo-0.3.16-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/vala.html

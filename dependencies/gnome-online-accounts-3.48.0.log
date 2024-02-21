@@ -1,0 +1,6 @@
+"gnome-online-accounts-3.48.0-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/gcr.html
+"gnome-online-accounts-3.48.0-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/json-glib.html
+"gnome-online-accounts-3.48.0-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/rest.html
+"gnome-online-accounts-3.48.0-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/vala.html
+"gnome-online-accounts-3.48.0-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/x/webkitgtk.html
+"gnome-online-accounts-3.48.0-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/gobject-introspection.html

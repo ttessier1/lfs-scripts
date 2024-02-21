@@ -1,0 +1,14 @@
+"gnome-shell-44.3-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/evolution-data-server.html
+"gnome-shell-44.3-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/gcr4.html
+"gnome-shell-44.3-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/gjs.html
+"gnome-shell-44.3-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/gnome-desktop.html
+"gnome-shell-44.3-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/ibus.html
+"gnome-shell-44.3-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/mutter.html
+"gnome-shell-44.3-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/postlfs/polkit.html
+"gnome-shell-44.3-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/sassc.html
+"gnome-shell-44.3-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/x/startup-notification.html
+"gnome-shell-44.3-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/desktop-file-utils.html
+"gnome-shell-44.3-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/gnome-autoar.html
+"gnome-shell-44.3-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/gnome-bluetooth.html
+"gnome-shell-44.3-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/multimedia/gst10-plugins-base.html
+"gnome-shell-44.3-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/basicnet/networkmanager.html

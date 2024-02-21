@@ -1,0 +1,13 @@
+"opencv-4.8.0-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/cmake.html
+"opencv-4.8.0-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/unzip.html
+"opencv-4.8.0-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/multimedia/ffmpeg.html
+"opencv-4.8.0-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/multimedia/gst10-plugins-base.html
+"opencv-4.8.0-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/x/gtk3.html
+"opencv-4.8.0-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/jasper.html
+"opencv-4.8.0-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/libexif.html
+"opencv-4.8.0-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/libjpeg.html
+"opencv-4.8.0-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/libpng.html
+"opencv-4.8.0-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/libtiff.html
+"opencv-4.8.0-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/libwebp.html
+"opencv-4.8.0-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/multimedia/v4l-utils.html
+"opencv-4.8.0-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/multimedia/xine-lib.html

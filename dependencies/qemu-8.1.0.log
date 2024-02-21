@@ -1,0 +1,4 @@
+"qemu-8.1.0-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/glib2.html
+"qemu-8.1.0-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/multimedia/alsa-lib.html
+"qemu-8.1.0-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/basicnet/libslirp.html
+"qemu-8.1.0-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/multimedia/sdl2.html

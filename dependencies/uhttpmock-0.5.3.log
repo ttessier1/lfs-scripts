@@ -1,0 +1,3 @@
+"uhttpmock-0.5.3-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/libsoup.html
+"uhttpmock-0.5.3-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/gobject-introspection.html
+"uhttpmock-0.5.3-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/vala.html

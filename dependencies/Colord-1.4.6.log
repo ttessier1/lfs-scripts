@@ -1,0 +1,10 @@
+"Colord-1.4.6-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/dbus.html
+"Colord-1.4.6-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/glib2.html
+"Colord-1.4.6-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/lcms2.html
+"Colord-1.4.6-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/postlfs/polkit.html
+"Colord-1.4.6-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/server/sqlite.html
+"Colord-1.4.6-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/gobject-introspection.html
+"Colord-1.4.6-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/libgudev.html
+"Colord-1.4.6-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/libgusb.html
+"Colord-1.4.6-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/systemd.html
+"Colord-1.4.6-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/vala.html

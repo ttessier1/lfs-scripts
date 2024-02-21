@@ -1,0 +1,9 @@
+"Tracker-3.5.3-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/json-glib.html
+"Tracker-3.5.3-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/libseccomp.html
+"Tracker-3.5.3-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/vala.html
+"Tracker-3.5.3-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/gobject-introspection.html
+"Tracker-3.5.3-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/icu.html
+"Tracker-3.5.3-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/basicnet/libsoup3.html
+"Tracker-3.5.3-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/python-modules.html
+"Tracker-3.5.3-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/server/sqlite.html
+"Tracker-3.5.3-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/tracker3-miners.html

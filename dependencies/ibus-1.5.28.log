@@ -1,0 +1,6 @@
+"ibus-1.5.28-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/gnome/dconf.html
+"ibus-1.5.28-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/iso-codes.html
+"ibus-1.5.28-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/vala.html
+"ibus-1.5.28-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/gobject-introspection.html
+"ibus-1.5.28-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/x/gtk2.html
+"ibus-1.5.28-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/x/libnotify.html

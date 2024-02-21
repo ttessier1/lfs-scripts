@@ -1,0 +1,5 @@
+"pavucontrol-5.0-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/x/gtkmm3.html
+"pavucontrol-5.0-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/json-glib.html
+"pavucontrol-5.0-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/libcanberra.html
+"pavucontrol-5.0-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/libsigc.html
+"pavucontrol-5.0-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/pulseaudio.html

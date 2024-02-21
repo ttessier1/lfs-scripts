@@ -1,0 +1,17 @@
+"gnome-control-center-44.3-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/accountsservice.html
+"gnome-control-center-44.3-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/x/colord-gtk.html
+"gnome-control-center-44.3-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/gnome-online-accounts.html
+"gnome-control-center-44.3-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/gnome-settings-daemon.html
+"gnome-control-center-44.3-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/gsound.html
+"gnome-control-center-44.3-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/libgtop.html
+"gnome-control-center-44.3-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/postlfs/libpwquality.html
+"gnome-control-center-44.3-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/postlfs/mitkrb.html
+"gnome-control-center-44.3-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/shared-mime-info.html
+"gnome-control-center-44.3-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/udisks2.html
+"gnome-control-center-44.3-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/pst/cups.html
+"gnome-control-center-44.3-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/basicnet/samba.html
+"gnome-control-center-44.3-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/gnome-bluetooth.html
+"gnome-control-center-44.3-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/ibus.html
+"gnome-control-center-44.3-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/x/libadwaita.html
+"gnome-control-center-44.3-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/general/ModemManager.html
+"gnome-control-center-44.3-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/basicnet/libnma.html

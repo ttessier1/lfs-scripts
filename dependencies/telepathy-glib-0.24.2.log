@@ -1,0 +1,4 @@
+"telepathy-glib-0.24.2-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/dbus-glib.html
+"telepathy-glib-0.24.2-Required" https://www.linuxfromscratch.org/blfs/view/stable-systemd/libxslt.html
+"telepathy-glib-0.24.2-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/gobject-introspection.html
+"telepathy-glib-0.24.2-Optional" https://www.linuxfromscratch.org/blfs/view/stable-systemd/vala.html
